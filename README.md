@@ -1,5 +1,5 @@
 # Simple clock with alarm in assembly
-Napisz program, który będzie realizował funkcję zegara z alarmem:
+<b>Napisz program, który będzie realizował funkcję zegara z alarmem:</b>
   - Format wyświetlania hh:mm:ss
   - Ustawianie godziny przy uruchomieniu programu:
     - Wprowadzamy: Godzinę (0-23)
@@ -9,7 +9,7 @@ Napisz program, który będzie realizował funkcję zegara z alarmem:
     - Wprowadzamy: Godzinę (0-23)
     - Minuty (0-59)
 
-Działanie zegara:
+<b>Działanie zegara:</b>
   - przy uruchomieniu ustawienie godziny, minuty i sekundy, a następnie godziny i minuty alarmu
   - wprowadzane liczby są wyświetlane cyfra po cyfrze
   - po ustawieniu alarmu zegar zaczyna działać - wyświetlana jest godzina, minuta i sekunda w formacie hh:mm:ss, z każdą odliczoną sekundą ekran LCD aktualizuje się
