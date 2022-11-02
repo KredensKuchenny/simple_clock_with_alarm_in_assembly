@@ -5,6 +5,6 @@ Napisz program, który będzie realizował funkcję zegara z alarmem:
     - Wprowadzamy: Godzinę (0-23)
     - Minuty (0-59)
     - Sekundy (0-59)
-  - Ustawianie alarmu przy uruchomieniu programu
+  - Ustawianie alarmu przy uruchomieniu programu:
     - Wprowadzamy: Godzinę (0-23)
     - Minuty (0-59)
